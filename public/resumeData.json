@@ -1,0 +1,200 @@
+{
+  "main": {
+    "name":"NFT Carbon Creds Project",
+    "description":"I am Adwait Sadalage and I am a software developer with a passion for blockchain technology. I along with my team memebers Poorva Khatwate, Amaan Khan, Shubhashri have togetherly developed This application",
+    "image1":"adwait.jpg",
+    "image2":"profilepic.jpg",
+    "image3":"profilepic.jpg",
+    "image4":"profilepic.jpg",
+    "bio":"The unsustainable consumption of natural resources is one of the major challenges facing our planet today. Rapid deforestation, driven by agricultural expansion, logging, and urbanization, contributes significantly to biodiversity loss and climate change. Effective measures to ensure responsible consumption and conservation of natural resources are crucial to mitigate these impacts and achieve sustainable development",
+    "contactmessage":"So Arriving at the concluding part of our project",
+    "email": "adwaitsadalage@gmail.com",
+    "phone": "+91 7899788475",
+    "github":"https://github.com/Whoops-Aurora/",
+    "project":"#",
+    "address":{
+      "street":"(Your Street)",
+      "city":"(Your City)",
+      "state":"(Your State)",
+      "zip": "(Your Zip/Postal Code)"
+    },
+    "website": "https://portfolio-three-sigma-36.vercel.app/",
+    "resumedownload":"https://portfolio-three-sigma-36.vercel.app/",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/adwaitsadalage",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/adwait-s-a1362a1a0/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/adwait.api/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/Whoops-Aurora",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Benefits of our projects are not limited to Directly contribute to reforestation and carbon sequestration efforts...Provide financial rewards for tree planting and maintenance through the sale of carbon credits...Ensure a transparent and verifiable record of environmental contributions...Foster a community of environmentally conscious individuals and organizations...", 
+    "education":[
+      {
+        "school":"Promote Tree Planting",
+        "degree":"",
+        "graduated":"",
+        "description":" Encourage individuals and organizations to plant trees and upload their details to the platform."
+      },
+      {
+        "school":"Track and Reward Carbon Sequestration",
+        "degree":"",
+        "graduated":"",
+        "description":"Assign carbon credits to each tree based on its age, species, and location, allowing users to accumulate and trade these credits."
+      },
+      {
+        "school":"Facilitate Responsible Consumption:",
+        "degree":"",
+        "graduated":"",
+        "description":"Enable users to purchase tree NFTs to offset their carbon footprint and resell them if there are remaining carbon credits."
+      },
+      {
+        "school":"Ensure Transparency and Traceability",
+        "degree":"",
+        "graduated":"",
+        "description":"Utilize blockchain technology to provide a transparent and immutable record of tree planting and carbon credit transactions"
+      }
+    ],
+    "features":[
+      {
+        "company":"Tree NFT Creation",
+        "title":" ",
+        "years":"",
+        "description":"Users can create NFTs by uploading the tree's picture, species, location, age, and assigned carbon credits."
+      },
+      {
+        "company":"Carbon Credit Marketplace",
+        "title":"",
+        "years":"",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      },
+      {
+        "company":"Wallet Integration",
+        "title":" ",
+        "years":"",
+        "description":"Integration with MetaMask for secure wallet management and transaction processing."
+      },
+      {
+        "company":"Smart Contract-Based Management",
+        "title":" ",
+        "years":"",
+        "description":"Utilize smart contracts to automate the creation, management, and transfer of tree NFTs."
+      },
+      {
+        "company":"Event Listening",
+        "title":" ",
+        "years":"",
+        "description":"Implement event listeners to track and respond to significant actions such as tree NFT creation, transfer, and carbon credit usage."
+      }
+    ],
+    "implementation":[
+      {
+        "company":"Frontend Development",
+        "title":"step 1 ",
+        "years":"Adwait & Poorva",
+        "description":"Create a user-friendly interface using React for users to interact with the DApp."
+      },
+      {
+        "company":"Smart Contract Development",
+        "title":"step 2",
+        "years":"Poorva",
+        "description":"Write and deploy smart contracts on the Ethereum blockchain to manage tree NFTs and carbon credits."
+      },
+      {
+        "company":"Blockchain Integration",
+        "title":"Step 3",
+        "years":"Adwait & Amaan",
+        "description":"Integration with MetaMask for secure wallet management and transaction processing using <mark> GETH </mark>.Integrate the frontend with blockchain services using Web3.js"
+      },
+      {
+        "company":"Testing and Deployment",
+        "title":"Step 4",
+        "years":"Shubhashri & Amaan",
+        "description":"Thoroughly test the application on a local blockchain (Geth) and deploy it on the Ethereum mainnet or a suitable testnet."
+      },
+      {
+        "company":"Continuous Improvement",
+        "title":"Step 5",
+        "years":"Full Team",
+        "description":"Gather user feedback and continuously improve the platform to better meet user needs and environmental goals."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Environmental Impact",
+        "level":"60%"
+      },
+      {
+        "name":"Economic Incentives",
+        "level":"55%"
+      },
+      {
+        "name":"Transparency",
+        "level":"50%"
+      },
+      {
+        "name":"Community Engagement",
+        "level":"90%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"System Model",
+        "category":"System model of NFT project currently built-upon",
+        "image":"01.jpg",
+        "url":"#"
+      },
+      {
+        "title":"Flow Diagram",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"02.jpg",
+        "url":"#"
+      },
+      {
+        "title":"NFT Marketplace Frontend",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"03.jpg",
+        "url":"#"
+      },
+      {
+        "title":"Profile Side NFT Marketplace",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"06.jpg",
+        "url":"#"
+      }
+    ],
+    "testimonials":[
+      {
+        "text":"This is a sample testimonial",
+        "user":"Some technical guy"
+      },
+      {
+        "text":"This is a sample testimonial",
+        "user":"Some technical guy"
+      }
+    ]
+  }
+}
